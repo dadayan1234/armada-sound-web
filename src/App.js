@@ -66,10 +66,13 @@ const ArmadasoundWebsite = () => {
           <div className="text-center text-white max-w-4xl animate-fade-in">
             {/* Logo */}
             <div className="mb-8 transform hover:scale-105 transition-transform duration-300">
-              <div className="w-32 h-32 mx-auto bg-gradient-to-br from-blue-500 to-purple-600 rounded-full flex items-center justify-center text-4xl font-bold shadow-2xl">
-                AS
-              </div>
+              <img
+                src="/img/logo.png"
+                alt="Armada Sound Logo"
+                className="w-32 h-32 mx-auto rounded-full shadow-2xl object-cover"
+              />
             </div>
+
 
             <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent animate-pulse">
               ARMADA SOUND
