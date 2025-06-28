@@ -67,7 +67,7 @@ const ArmadasoundWebsite = () => {
             {/* Logo */}
             <div className="mb-8 transform hover:scale-105 transition-transform duration-300">
               <img
-                src="/img/logo.png"
+                src="/img/logo.PNG"
                 alt="Armada Sound Logo"
                 className="w-32 h-32 mx-auto rounded-full shadow-2xl object-cover"
               />
