@@ -402,8 +402,13 @@ const ArmadasoundWebsite = () => {
       <footer className="bg-gray-900 text-white py-12 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <div className="mb-8">
-            <div className="w-16 h-16 mx-auto bg-gradient-to-br from-blue-500 to-purple-600 rounded-full flex items-center justify-center text-2xl font-bold mb-4">
-              AS
+            {/* Logo */}
+            <div className="mb-8 transform hover:scale-105 transition-transform duration-300">
+              <img
+                src="/img/logo.PNG"
+                alt="Armada Sound Logo"
+                className="w-32 h-32 mx-auto rounded-full shadow-2xl object-cover"
+              />
             </div>
             <h3 className="text-2xl font-bold mb-2">ARMADA SOUND</h3>
             <p className="text-gray-400">Solusi Sound System Profesional</p>
