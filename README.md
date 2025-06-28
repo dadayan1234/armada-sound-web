@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # armada-sound-web
 =======
+=======
+>>>>>>> ab98846edc3a7ce4fe2abcf770e268222c801105
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 >>>>>>> 01231f8 (Initialize project using Create React App)
+=======
+>>>>>>> ab98846edc3a7ce4fe2abcf770e268222c801105

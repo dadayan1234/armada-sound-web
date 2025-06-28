@@ -9,17 +9,21 @@
 /coverage
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # next.js
 /.next/
 /out/
 
 =======
 >>>>>>> 01231f8 (Initialize project using Create React App)
+=======
+>>>>>>> ab98846edc3a7ce4fe2abcf770e268222c801105
 # production
 /build
 
 # misc
 .DS_Store
+<<<<<<< HEAD
 <<<<<<< HEAD
 *.pem
 
@@ -39,6 +43,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 =======
+=======
+>>>>>>> ab98846edc3a7ce4fe2abcf770e268222c801105
 .env.local
 .env.development.local
 .env.test.local
@@ -47,4 +53,7 @@ next-env.d.ts
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 >>>>>>> 01231f8 (Initialize project using Create React App)
+=======
+>>>>>>> ab98846edc3a7ce4fe2abcf770e268222c801105
