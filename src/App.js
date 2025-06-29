@@ -56,7 +56,7 @@ const ArmadasoundWebsite = () => {
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/60 to-black/40 backdrop-blur-sm" />
         <div className="relative z-10 flex items-center justify-center h-full px-4">
           <div className="text-center text-white max-w-4xl animate-fade-in">
-            <img src="/img/logo.PNG" alt="Armada Sound Logo" className="w-32 h-32 mx-auto rounded-full shadow-2xl object-cover mb-8 transform hover:scale-105 transition-transform duration-300" />
+            <img src="/img/logo.PNG" alt="Armada Sound Logo" className="w-50 h-50 mx-auto rounded-full shadow-2xl object-cover mb-8 transform hover:scale-105 transition-transform duration-300" />
             <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent animate-pulse">
               ARMADA SOUND
             </h1>
@@ -92,8 +92,8 @@ const ArmadasoundWebsite = () => {
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             {/* Ganti URL gambar di bawah dengan ilustrasi Anda */}
-            <FeatureCard imageSrc="https://images.unsplash.com/photo-1599481248633-9665a890479b?auto=format&fit=crop&w=800&q=80" title="Alat Perang Lengkap & Canggih">
-              Kami pakai alat-alat kelas satu. Mixer digital, speaker jernih, power kuat. Dijamin suara gak bakal malu-maluin!
+            <FeatureCard imageSrc="https://images.unsplash.com/photo-1599481248633-9665a890479b?auto=format&fit=crop&w=800&q=80" title="Peralatan yang Lengkap & Canggih">
+              Kami pakai alat-alat kelas satu. Mixer analog, speaker jernih, power kuat. Dijamin suara gak bakal malu-maluin!
             </FeatureCard>
             <FeatureCard imageSrc="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=800&q=80" title="Tim yang Asik & Jago">
               Tim kami bukan cuma operator, tapi seniman suara. Ramah, berpengalaman, dan siap bikin acaramu sukses.
