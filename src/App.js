@@ -143,16 +143,22 @@ const ArmadasoundWebsite = () => {
             <p className="text-xl text-gray-600 mb-8">
               Dikelola langsung oleh pemilik yang turun tangan untuk memastikan kualitas. Mampir ke tempat kami untuk ngobrol santai seputar kebutuhan acara Anda.
             </p>
-            <div className="bg-white p-6 rounded-2xl shadow-lg border">
-              <div className="flex items-center mb-4">
-                <User className="w-8 h-8 text-blue-600 mr-4" />
+
+            <div className="bg-white p-6 rounded-2xl shadow-lg border max-w-xl mx-auto">
+              <div className="flex flex-col sm:flex-row items-center sm:items-start sm:text-left text-center mb-6">
+                <img
+                  src="/img/owner.JPG"
+                  alt="Foto Edi Husaeni"
+                  className="w-24 h-24 rounded-full object-cover border-2 border-blue-600 mb-4 sm:mb-0 sm:mr-4"
+                />
                 <div>
                   <p className="text-gray-500">Pemilik</p>
                   <p className="text-xl font-bold text-gray-900">Edi Husaeni (Edi Son)</p>
                 </div>
               </div>
-              <div className="flex items-start">
-                <MapPin className="w-8 h-8 text-green-600 mr-4 mt-1 flex-shrink-0" />
+
+              <div className="flex items-start text-center sm:text-left">
+                <MapPin className="w-8 h-8 text-green-600 mr-4 mt-1 hidden sm:block" />
                 <div>
                   <p className="text-gray-500">Alamat</p>
                   <p className="text-lg font-semibold text-gray-800">
@@ -163,6 +169,7 @@ const ArmadasoundWebsite = () => {
               </div>
             </div>
           </div>
+
           <div className="rounded-2xl overflow-hidden shadow-2xl h-80 md:h-full">
             {/* Ganti dengan link Google Maps Anda */}
             <iframe
