@@ -92,13 +92,13 @@ const ArmadasoundWebsite = () => {
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             {/* Ganti URL gambar di bawah dengan ilustrasi Anda */}
-            <FeatureCard imageSrc="https://images.unsplash.com/photo-1599481248633-9665a890479b?auto=format&fit=crop&w=800&q=80" title="Peralatan yang Lengkap & Canggih">
+            <FeatureCard imageSrc="/img/alat.jpg" title="Peralatan yang Lengkap & Canggih">
               Kami pakai alat-alat kelas satu. Mixer analog, speaker jernih, power kuat. Dijamin suara gak bakal malu-maluin!
             </FeatureCard>
-            <FeatureCard imageSrc="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=800&q=80" title="Tim yang Asik & Jago">
+            <FeatureCard imageSrc="/img/tim.jpeg" title="Tim yang Asik & Jago">
               Tim kami bukan cuma operator, tapi seniman suara. Ramah, berpengalaman, dan siap bikin acaramu sukses.
             </FeatureCard>
-            <FeatureCard imageSrc="https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=800&q=80" title="Siap untuk Segala Acara">
+            <FeatureCard imageSrc="/img/acara.jpg" title="Siap untuk Segala Acara">
               Mau acara kampung, konser band, atau pengajian akbar? Kami siap tempur! Pengalaman kami udah melalang buana.
             </FeatureCard>
           </div>
