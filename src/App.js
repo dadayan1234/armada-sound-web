@@ -56,7 +56,7 @@ const ArmadasoundWebsite = () => {
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/60 to-black/40 backdrop-blur-sm" />
         <div className="relative z-10 flex items-center justify-center h-full px-4">
           <div className="text-center text-white max-w-4xl animate-fade-in">
-            <img src="/img/logo.PNG" alt="Armada Sound Logo" className="w-33 h-33 mx-auto rounded-full shadow-2xl object-cover mb-8 transform hover:scale-105 transition-transform duration-300" />
+            <img src="/img/logo.PNG" alt="Armada Sound Logo" className="w-40 h-40 mx-auto rounded-full shadow-2xl object-cover mb-8 transform hover:scale-105 transition-transform duration-300" />
             <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent animate-pulse">
               ARMADA SOUND
             </h1>
