@@ -167,7 +167,8 @@ const ArmadasoundWebsite = () => {
             {/* Ganti dengan link Google Maps Anda */}
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1993.9129293739238!2d112.61980936714106!3d-1.8108151727236663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dfd7d63054ac545%3A0x4b15f0ba047f0bb!2sMasjid%20Al-Muhajirin%20Beringin%20Agung!5e0!3m2!1sid!2sid!4v1751197402767!5m2!1sid!2sid"
-              width={"100%"}
+              width="100%"
+              height="100%"
               style={{ border: 0 }}
               allowFullScreen=""
               loading="lazy"
