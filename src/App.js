@@ -64,7 +64,7 @@ const ArmadasoundWebsite = () => {
               Bikin Acara Apapun Jadi Lebih Hidup & Berkesan!
             </h2>
             <p className="text-lg md:text-xl mb-8 text-gray-300 max-w-3xl mx-auto leading-relaxed">
-              Dari hajatan nikahan sampai konser musik, kami siap hadirkan suara jernih yang bikin semua orang ikut goyang. Percayakan momen spesial Anda pada kami!
+              Dari hajatan nikahan sampai konser musik, kami siap hadirkan suara jernih yang bikin semua orang terpana. Percayakan momen spesial Anda pada kami!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <a href={`https://wa.me/${whatsappNumber.replace('+', '')}?text=Halo%20ARMADA%20SOUND,%20mau%20tanya-tanya%20soal%20sewa%20sound%20system%20untuk%20acara%20saya.`} target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-8 py-4 rounded-full font-semibold text-lg shadow-lg transform hover:scale-105 transition-all duration-300 flex items-center gap-2">
